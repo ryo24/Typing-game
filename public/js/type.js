@@ -764,7 +764,7 @@ Typing.charTable = {
 Typing.datas = [
 	{
 		question : "Life is Tech ! School",
-		kana : "ライフイズテックスクール",
+		kana : "ＬＩＦＥＩＳＴＥＣＨ！ＳＣＨＯＯＬスクール",
 		comment : "りょう"
 	},{
         question:"とにかくいろんなコードを使ってみる",
@@ -780,7 +780,7 @@ Typing.datas = [
         comment: "じゅり"
     },{
         question:"Swiftの文法を完璧に理解し、オリジナルアプリを作る！",
-        kana: "スウィフトノブンポウヲカンペキニリカイシ、オリジナルアプリヲツクル！",
+        kana: "ＳＷＩＦＴノブンポウヲカンペキニリカイシ、オリジナルアプリヲツクル！",
         comment: "みさ"
     },{
         question:"オリズィナァルアプリィをつくるよ（？）",
@@ -840,15 +840,15 @@ Typing.datas = [
         comment: "じょえ"
     },{
         question:"STARWARSを愛する！",
-        kana: "スターウォーズヲアイスル",
+        kana: "ＳＴＡＲＷＡＲＳヲアイスル",
         comment: "総統閣下"
     },{
         question:"成績100%",
-        kana: "セイセキヒャクパーセント",
+        kana: "セイセキ１００％",
         comment: "めぐな"
     },{
         question:"Webを極める！",
-        kana: "ウェブヲキワメル！",
+        kana: "ＷＥＢヲキワメル！",
         comment: "ぴょん"
     },{
         question:"レスポンシブデザインのサイトをマスターする",
@@ -856,7 +856,7 @@ Typing.datas = [
         comment: "たいてぃ"
     },{
         question:"２つのサイトを作る（カメラと学校のやつ）",
-        kana: "フタツノサイトヲツクル",
+        kana: "２ツノサイトヲツクル（カメラトガッコウノヤツ）",
         comment: "みなたん"
     },{
         question:"最初からサイトを自力で作るようにする！",
@@ -872,7 +872,7 @@ Typing.datas = [
         comment: "たなはや"
     },{
         question:"ThirdEverNote完成&リリース",
-        kana: "サードエバーノートカンセイ＆リリース",
+        kana: "ＴＨＩＲＤＥＶＥＲＮＯＴＥ＆リリース",
         comment: "まっか"
     },{
         question:"姿勢を良くする",
